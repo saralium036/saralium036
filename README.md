@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @saralium036
+- 👋 Hi, I’m Sarah Ojo
 - 👀 I’m interested in data analysis with tools such as Microsoft Excel, SQL, Tableau, PowerBI, R and Python
-- 🌱 I’m currently learning R, Tableau, PowerBi and SQL
-- 💞️ I’m looking to collaborate on projects involving analysis of Data with R
-- 📫 How to reach me: email:sarahadewumi51@gmail.com Linkedin: [https://www.linkedin.com/in/sarah-ojo-19706712a](https://www.linkedin.com/in/sarah-ojo-analyst/)
+- 🌱 I hold a Masters Degree in Artificial Intelligence and Data Science
+- 💞️ I’m looking to collaborate on projects involving analysis of Data with Python and SQL
+- 👀 Feel free to view some of my projects here on GitHub
+- 📫 How to reach me: email:sarahojot@gmail.com Linkedin:https://www.linkedin.com/in/sarah-ojo-analyst/
 
 <!---
 saralium036/saralium036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
